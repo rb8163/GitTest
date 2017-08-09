@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/** Added JS Function**/
+ add()
+ {
+	 
+ }
